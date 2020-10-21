@@ -16,5 +16,5 @@ Each text will have a proabablity associated with the different categories.
 
 
 <i> Example of output </i>
-![Image of output](https://github.com/RayTimlin/events-swedish-classification/blob/main/example.png)
+![Image of output](https://github.com/RayTimlin/events-swedish-classification/blob/main/example2.png)
 
