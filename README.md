@@ -12,6 +12,9 @@ Only categories which had more than 1000 incidents were used. Incidents with les
 <b> Part 2 </b> of the notebook relates to the training, evaluating and validatiing the model.
 The result is 78% LRAP after 4 epochs. Could easily be increased if further incidents with a low word count are excluded and more epochs run (4).
 
+Each text will have a proabablity associated with the different categories.
 
 
+<i> Example of output </i>
+![Image of output](https://github.com/RayTimlin/events-swedish-classification/blob/main/example.png)
 
